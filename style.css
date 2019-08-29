@@ -1,0 +1,54 @@
+.red{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+
+.blue{
+    background-color: blue;
+    width: 100%;
+    height: 70px;
+}
+
+.yellow{
+    background-color: yellow;
+    width: 100%;
+    height: 30px;
+}
+
+.green{
+    background-color: green;
+    width: 100%;
+    height: 50px;
+}
+
+
+.flex-linha{
+    flex-direction: row;
+    height: 100px;
+    display: flex;
+}
+
+.red-flex{
+    background-color: red;
+    flex: 1;
+    height: 100%;
+}
+
+.blue-flex{
+    background-color: blue;
+    flex: 1;
+    height: 100%;
+}
+
+.yellow-flex{
+    background-color: yellow;
+    flex: 1;
+    height: 100%;
+}
+
+.green-flex{
+    background-color: green;
+    flex: 1;
+    height: 100%;
+}
